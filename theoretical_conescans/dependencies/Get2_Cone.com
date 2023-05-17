@@ -6,11 +6,11 @@ BEGINNING:
 cat << eof >! awk.it
 {if(NR==$n) {no=0+substr(\$0,23,4); print no}}
 eof
-set m   = `awk -f awk.it model_chls.pdb | awk '{print $1}'`
+set m   = `awk -f awk.it cla910_chain_A_optM1_symm_fixed.pdb | awk '{print $1}'`
 cat << eof >! awk.it
 {if(NR==$n) {chn=substr(\$0,22,1); print chn}}
 eof
-set chn = `awk -f awk.it model_chls.pdb | awk '{print $1}'`
+set chn = `awk -f awk.it cla910_chain_A_optM1_symm_fixed.pdb | awk '{print $1}'`
 
 echo ${chn} ${m}
 
