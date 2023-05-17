@@ -1,0 +1,67 @@
+#!/bin/csh
+function ccpvolr(cx,ac,v) {dtor=0.017453;
+#dtor=atan(1.0)/45.0;
+a1=cx[1]; b1=cx[2]; c1=cx[3];
+alph=dtor*cx[4]; beta=dtor*cx[5];gamm=dtor*cx[6];sum=0.5*(alph+beta+gamm);
+v=sin(sum-alph)*sin(sum-beta)*sin(sum-gamm);
+v=2.0*a1*b1*c1*sqrt(sin(sum)*v);
+astar=b1*c1*sin(alph)/v; bstar=c1*a1*sin(beta)/v; cstar=a1*b1*sin(gamm)/v;
+cosast=(cos(beta)*cos(gamm)-cos(alph))/(sin(beta)*sin(gamm));
+cosbst=(cos(gamm)*cos(alph)-cos(beta))/(sin(gamm)*sin(alph));
+cosgst=(cos(alph)*cos(beta)-cos(gamm))/(sin(alph)*sin(beta));
+ac[1]=astar*astar; ac[2]=bstar*bstar; ac[3]=cstar*cstar;
+ac[4]=2.0*bstar*cstar*cosast; ac[5]=2.0*cstar*astar*cosbst; ac[6]=2.0*astar*bstar*cosgst;
+return}
+function ortho(cx,c2f,f2c) {
+C=0.017453;
+cabg[1]=cos(cx[4]*C); cabg[2]=cos(cx[5]*C); cabg[3]=cos(cx[6]*C);
+sabg[1]=sin(cx[4]*C); sabg[2]=sin(cx[5]*C); sabg[3]=sin(cx[6]*C);
+cabgs[1]=(cabg[2]*cabg[3]-cabg[1])/(sabg[2]*sabg[3]);
+cabgs[2]=(cabg[3]*cabg[1]-cabg[2])/(sabg[3]*sabg[1]);
+cabgs[3]=(cabg[1]*cabg[2]-cabg[3])/(sabg[1]*sabg[2]);
+v=cx[1]*cx[2]*cx[3]*sqrt(1.0+2.0*cabg[1]*cabg[2]*cabg[3]-cabg[1]**2-cabg[2]**2-cabg[3]**2);
+abcs[1]=cx[2]*cx[3]*sabg[1]/v;
+abcs[2]=cx[3]*cx[1]*sabg[2]/v;
+abcs[3]=cx[1]*cx[2]*sabg[3]/v;
+sabgs1=sqrt(1.0-cabgs[1]**2);
+# cartesian to fraction
+c2f[1,1]=1.0/cx[1]; 
+c2f[1,2]=-cabg[3]/(sabg[3]*cx[1]);
+c2f[1,3]=-(cabg[3]*sabg[2]*cabgs[1]+cabg[2]*sabg[3])/(sabg[2]*sabgs1*sabg[3]*cx[1]);
+c2f[2,1]=0.0;
+c2f[2,2]=1.0/(sabg[3]*cx[2]);
+c2f[2,3]=cabgs[1]/(sabgs1*sabg[3]*cx[2]);
+c2f[3,1]=0.0;
+c2f[3,2]=0.0;
+c2f[3,3]=1.0/(sabg[2]*sabgs1*cx[3]);
+# fraction to cartesian
+f2c[1,1]=cx[1];
+f2c[1,2]=cabg[3]*cx[2];
+f2c[1,3]=cabg[2]*cx[3];
+f2c[2,1]=0;
+f2c[2,2]=sabg[3]*cx[2];
+f2c[2,3]=-sabg[2]*cabgs[1]*cx[3];
+f2c[3,1]=0.0;
+f2c[3,2]=0.0;
+f2c[3,3]=sabg[2]*sabgs1*cx[3];
+return}
+####################
+function product(y,r,x) {
+y[1]=x[1]*r[1,1]+x[2]*r[1,2]+x[3]*r[1,3];
+y[2]=x[1]*r[2,1]+x[2]*r[2,2]+x[3]*r[2,3];
+y[3]=x[1]*r[3,1]+x[2]*r[3,2]+x[3]*r[3,3];
+return}
+function formfactor(E,ss,B,afc,bfc,afs,bfs) {form=0;
+if(E=="C") {for(kk=1; kk<=5; kk+=1) {badd=B/4.+bfc[kk]/4.0; form=form+afc[kk]*exp(-badd*ss)}};
+if(E=="S") {for(kk=1; kk<=5; kk+=1) {badd=B/4.+bfs[kk]/4.0; form=form+afs[kk]*exp(-badd*ss)}};
+return form}
+function octahedron(x)
+{pi=3.141593; d2r=pi/180; alpha=70.5288*d2r; beta=60.0*d2r; 
+x[1,1]=1.0; x[1,2]=0.0; x[1,3]=0.0;
+x[2,1]=1.0/2.0; x[2,2]=sin(beta); x[2,3]=0.0;
+x[3,1]=-1.0/2.0; x[3,2]=-sin(beta); x[3,3]=0.0
+x[4,1]=1.0/2.0; x[4,2]=cos(alpha)*sin(beta); x[4,3]=sin(alpha)*sin(beta);
+x[5,1]=-1.0/2.0;x[5,2]=cos(alpha)*sin(beta); x[5,3]=sin(alpha)*sin(beta);
+x[6,1]=0.0;x[6,2]=-cos(alpha)*sin(beta)*2; x[6,3]=sin(alpha)*sin(beta);
+for(i=7; i<=12; i+=1) 
+{x[i,1]=-x[i-6,1]; x[i,2]=-x[i-6,2]; x[i,3]=-x[i-6,3]}}
