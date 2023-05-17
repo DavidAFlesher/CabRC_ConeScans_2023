@@ -1,0 +1,6791 @@
+A 901
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:06:03 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A901_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A901_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                7.035   8.364  12.257
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    7.035   8.364  12.257
+     Distance between CENTROIDS      :               17.547
+     Direction cosines of vector between CENTROIDS:  -0.401  -0.477  -0.782
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.127
+          AVERAGE XYZ DISPLACEMENT =   0.107
+          MAXIMUM XYZ DISPLACEMENT =   0.175
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.31492  0.93525 -0.16162
+           -0.12311 -0.20910 -0.97011
+           -0.94110 -0.28561  0.18099
+  TRANSLATION VECTOR IN AS      6.79791     6.93768    12.52306
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.797915    6.937683   12.523061
+
+
+  ROTATION MATRIX 
+    -0.315     0.935    -0.162
+    -0.123    -0.209    -0.970
+    -0.941    -0.286     0.181
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.343030393    
+  not 10- dc(1),dc(2),dc(3),chk  0.461881995      0.525968909     -0.714158118       1.00000012    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     80.54136   -79.57240   163.11771
+  SPHERICAL POLARS OMEGA PHI CHI    135.57436    48.71191   132.18422
+  DIRECTION COSINES OF ROTATION AXIS      0.46188     0.52597    -0.71416
+
+ Angle between rotation axis and Centroid vector    82.94670
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.79791     6.93768    12.52306
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.797915    6.937683   12.523061
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 902
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:08:47 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A902_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A902_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.739   8.337  12.333
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.739   8.337  12.333
+     Distance between CENTROIDS      :               17.476
+     Direction cosines of vector between CENTROIDS:  -0.386  -0.477  -0.790
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  24.020
+          AVERAGE   B DISPLACEMENT = -24.020
+          RMS     XYZ DISPLACEMENT =   0.122
+          AVERAGE XYZ DISPLACEMENT =   0.116
+          MAXIMUM XYZ DISPLACEMENT =   0.158
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.33911  0.91532 -0.21726
+           -0.13845 -0.27699 -0.95085
+           -0.93050 -0.29236  0.22066
+  TRANSLATION VECTOR IN AS      6.41988     6.93876    12.65687
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.419880    6.938756   12.656868
+
+
+  ROTATION MATRIX 
+    -0.339     0.915    -0.217
+    -0.138    -0.277    -0.951
+    -0.931    -0.292     0.221
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.395437151    
+  not 10- dc(1),dc(2),dc(3),chk  0.459598303      0.497816920     -0.735491455       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     77.12949   -77.25236   162.55766
+  SPHERICAL POLARS OMEGA PHI CHI    137.34888    47.28599   134.24437
+  DIRECTION COSINES OF ROTATION AXIS      0.45960     0.49782    -0.73549
+
+ Angle between rotation axis and Centroid vector    80.43428
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.41988     6.93876    12.65687
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.419880    6.938756   12.656868
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:00  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 903
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:11:27 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A903_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A903_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.960   8.368  12.248
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.960   8.368  12.248
+     Distance between CENTROIDS      :               17.512
+     Direction cosines of vector between CENTROIDS:  -0.397  -0.478  -0.783
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  24.020
+          AVERAGE   B DISPLACEMENT = -24.020
+          RMS     XYZ DISPLACEMENT =   0.098
+          AVERAGE XYZ DISPLACEMENT =   0.085
+          MAXIMUM XYZ DISPLACEMENT =   0.131
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.08310  0.98567 -0.14677
+           -0.22649 -0.16211 -0.96043
+           -0.97046 -0.04657  0.23672
+  TRANSLATION VECTOR IN AS      6.74400     6.95642    12.59648
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.743997    6.956420   12.596478
+
+
+  ROTATION MATRIX 
+    -0.083     0.986    -0.147
+    -0.226    -0.162    -0.960
+    -0.970    -0.047     0.237
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  -8.48546624E-03
+  not 10- dc(1),dc(2),dc(3),chk  0.529122949      0.476914614     -0.701841414       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     81.31145   -76.30708   177.25293
+  SPHERICAL POLARS OMEGA PHI CHI    134.57504    42.02934   120.28119
+  DIRECTION COSINES OF ROTATION AXIS      0.52912     0.47691    -0.70184
+
+ Angle between rotation axis and Centroid vector    83.59123
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.74400     6.95642    12.59648
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.743997    6.956420   12.596478
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 904
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:14:10 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A904_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A904_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.698   8.394  12.244
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.698   8.394  12.244
+     Distance between CENTROIDS      :               17.418
+     Direction cosines of vector between CENTROIDS:  -0.385  -0.482  -0.787
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  60.910
+          AVERAGE   B DISPLACEMENT = -60.910
+          RMS     XYZ DISPLACEMENT =   0.128
+          AVERAGE XYZ DISPLACEMENT =   0.122
+          MAXIMUM XYZ DISPLACEMENT =   0.164
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.17590  0.94261 -0.28380
+           -0.21166 -0.31777 -0.92424
+           -0.96138 -0.10250  0.25541
+  TRANSLATION VECTOR IN AS      6.28032     7.03561    12.61920
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.280315    7.035614   12.619204
+
+
+  ROTATION MATRIX 
+    -0.176     0.943    -0.284
+    -0.212    -0.318    -0.924
+    -0.961    -0.103     0.255
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.238250881    
+  not 10- dc(1),dc(2),dc(3),chk  0.523207724      0.431422085     -0.734934390      0.999999881    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     72.93035   -75.20215   173.91441
+  SPHERICAL POLARS OMEGA PHI CHI    137.30177    39.50805   128.25240
+  DIRECTION COSINES OF ROTATION AXIS      0.52321     0.43142    -0.73493
+
+ Angle between rotation axis and Centroid vector    80.23896
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.28032     7.03561    12.61920
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.280315    7.035614   12.619204
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 905
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:16:54 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A905_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A905_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.838   8.386  12.123
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.838   8.386  12.123
+     Distance between CENTROIDS      :               17.374
+     Direction cosines of vector between CENTROIDS:  -0.394  -0.483  -0.782
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  32.710
+          AVERAGE   B DISPLACEMENT = -32.710
+          RMS     XYZ DISPLACEMENT =   0.100
+          AVERAGE XYZ DISPLACEMENT =   0.093
+          MAXIMUM XYZ DISPLACEMENT =   0.134
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.31464  0.93302 -0.17455
+           -0.12970 -0.22442 -0.96582
+           -0.94031 -0.28125  0.19162
+  TRANSLATION VECTOR IN AS      6.58091     6.96649    12.40468
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.580914    6.966489   12.404682
+
+
+  ROTATION MATRIX 
+    -0.315     0.933    -0.175
+    -0.130    -0.224    -0.966
+    -0.940    -0.281     0.192
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.347438782    
+  not 10- dc(1),dc(2),dc(3),chk  0.463185042      0.518115342     -0.719038367       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     79.75589   -78.95269   163.34814
+  SPHERICAL POLARS OMEGA PHI CHI    135.97525    48.20394   132.35489
+  DIRECTION COSINES OF ROTATION AXIS      0.46319     0.51812    -0.71904
+
+ Angle between rotation axis and Centroid vector    82.51978
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.58091     6.96649    12.40468
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.580914    6.966489   12.404682
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 906
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:19:36 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A906_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A906_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.960   8.401  12.317
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.960   8.401  12.317
+     Distance between CENTROIDS      :               17.582
+     Direction cosines of vector between CENTROIDS:  -0.396  -0.478  -0.784
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  24.020
+          AVERAGE   B DISPLACEMENT = -24.020
+          RMS     XYZ DISPLACEMENT =   0.125
+          AVERAGE XYZ DISPLACEMENT =   0.115
+          MAXIMUM XYZ DISPLACEMENT =   0.168
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.13552  0.98253 -0.12752
+           -0.18797 -0.15186 -0.97036
+           -0.97278 -0.10753  0.20527
+  TRANSLATION VECTOR IN AS      6.77305     6.97457    12.61924
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.773049    6.974566   12.619245
+
+
+  ROTATION MATRIX 
+    -0.136     0.983    -0.128
+    -0.188    -0.152    -0.970
+    -0.973    -0.108     0.205
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  -8.21118802E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.512987912      0.502542496     -0.695912600      0.999999940    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     82.51361   -78.15483   173.69229
+  SPHERICAL POLARS OMEGA PHI CHI    134.10010    44.41073   122.75565
+  DIRECTION COSINES OF ROTATION AXIS      0.51299     0.50254    -0.69591
+
+ Angle between rotation axis and Centroid vector    84.11611
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.77305     6.97457    12.61924
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.773049    6.974566   12.619245
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 907
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:22:18 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A907_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A907_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.554   8.448  12.394
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.554   8.448  12.394
+     Distance between CENTROIDS      :               17.508
+     Direction cosines of vector between CENTROIDS:  -0.374  -0.483  -0.792
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  32.710
+          AVERAGE   B DISPLACEMENT = -32.710
+          RMS     XYZ DISPLACEMENT =   0.137
+          AVERAGE XYZ DISPLACEMENT =   0.126
+          MAXIMUM XYZ DISPLACEMENT =   0.184
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.24883  0.92292 -0.29376
+           -0.19594 -0.34500 -0.91792
+           -0.94852 -0.17085  0.26668
+  TRANSLATION VECTOR IN AS      6.12192     7.09890    12.78627
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.121916    7.098902   12.786267
+
+
+  ROTATION MATRIX 
+    -0.249     0.923    -0.294
+    -0.196    -0.345    -0.918
+    -0.949    -0.171     0.267
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.327151090    
+  not 10- dc(1),dc(2),dc(3),chk  0.499309033      0.437607586     -0.747790098      0.999999940    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     72.25373   -74.53329   169.78946
+  SPHERICAL POLARS OMEGA PHI CHI    138.39943    41.23221   131.57324
+  DIRECTION COSINES OF ROTATION AXIS      0.49931     0.43761    -0.74779
+
+ Angle between rotation axis and Centroid vector    78.80853
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.12192     7.09890    12.78627
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.121916    7.098902   12.786267
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 908
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:24:59 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A908_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A908_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                7.184   8.426  12.180
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    7.184   8.426  12.180
+     Distance between CENTROIDS      :               17.576
+     Direction cosines of vector between CENTROIDS:  -0.409  -0.479  -0.777
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  12.800
+          AVERAGE   B DISPLACEMENT = -12.800
+          RMS     XYZ DISPLACEMENT =   0.094
+          AVERAGE XYZ DISPLACEMENT =   0.084
+          MAXIMUM XYZ DISPLACEMENT =   0.122
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.22476  0.97178  0.07166
+           -0.19896  0.02623 -0.97966
+           -0.95389 -0.23444  0.18745
+  TRANSLATION VECTOR IN AS      7.28959     6.98565    12.45505
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     7.289594    6.985655   12.455049
+
+
+  ROTATION MATRIX 
+    -0.225     0.972     0.072
+    -0.199     0.026    -0.980
+    -0.954    -0.234     0.187
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  -1.10844225E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.431856245      0.594312787     -0.678448498      0.999999881    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     94.18382   -79.19621   166.19179
+  SPHERICAL POLARS OMEGA PHI CHI    132.72263    53.99608   120.36745
+  DIRECTION COSINES OF ROTATION AXIS      0.43186     0.59431    -0.67845
+
+ Angle between rotation axis and Centroid vector    86.24725
+
+
+ ***** Note: Since this angle between rotation axis and Centroid vector is  near to 90.0 this may represent a pure rotation *** 
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     7.28959     6.98565    12.45505
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    7.289594    6.985655   12.455049
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 909
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:27:40 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A909_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A909_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.974   8.406  12.178
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.974   8.406  12.178
+     Distance between CENTROIDS      :               17.481
+     Direction cosines of vector between CENTROIDS:  -0.399  -0.481  -0.781
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  12.430
+          AVERAGE   B DISPLACEMENT = -12.430
+          RMS     XYZ DISPLACEMENT =   0.103
+          AVERAGE XYZ DISPLACEMENT =   0.097
+          MAXIMUM XYZ DISPLACEMENT =   0.138
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.16340  0.98546 -0.04652
+           -0.15890 -0.07282 -0.98460
+           -0.97368 -0.15349  0.16849
+  TRANSLATION VECTOR IN AS      6.90562     6.95863    12.42594
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.905623    6.958632   12.425937
+
+
+  ROTATION MATRIX 
+    -0.163     0.985    -0.047
+    -0.159    -0.073    -0.985
+    -0.974    -0.153     0.168
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  -6.77270293E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.491451174      0.548247159     -0.676683784       1.00000024    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     87.29528   -80.29980   171.04172
+  SPHERICAL POLARS OMEGA PHI CHI    132.58514    48.12685   122.26698
+  DIRECTION COSINES OF ROTATION AXIS      0.49145     0.54825    -0.67668
+
+ Angle between rotation axis and Centroid vector    86.06507
+
+
+ ***** Note: Since this angle between rotation axis and Centroid vector is  near to 90.0 this may represent a pure rotation *** 
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.90562     6.95863    12.42594
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.905623    6.958632   12.425937
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 910
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:30:21 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A910_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A910_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                7.052   8.401  12.286
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    7.052   8.401  12.286
+     Distance between CENTROIDS      :               17.594
+     Direction cosines of vector between CENTROIDS:  -0.401  -0.477  -0.782
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.130
+          AVERAGE XYZ DISPLACEMENT =   0.124
+          MAXIMUM XYZ DISPLACEMENT =   0.168
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.13182  0.99112  0.01742
+           -0.28677 -0.02131 -0.95776
+           -0.94889 -0.13125  0.28703
+  TRANSLATION VECTOR IN AS      7.07811     6.99309    12.70819
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     7.078109    6.993088   12.708186
+
+
+  ROTATION MATRIX 
+    -0.132     0.991     0.017
+    -0.287    -0.021    -0.958
+    -0.949    -0.131     0.287
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  0.133900970    
+  not 10- dc(1),dc(2),dc(3),chk  0.458474755      0.536021888     -0.708859265       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     91.04215   -73.31975   172.12485
+  SPHERICAL POLARS OMEGA PHI CHI    135.14229    49.45873   115.66134
+  DIRECTION COSINES OF ROTATION AXIS      0.45847     0.53602    -0.70886
+
+ Angle between rotation axis and Centroid vector    83.42457
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     7.07811     6.99309    12.70819
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    7.078109    6.993088   12.708186
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 911
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:33:02 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A911_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A911_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                7.001   8.494  12.302
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    7.001   8.494  12.302
+     Distance between CENTROIDS      :               17.630
+     Direction cosines of vector between CENTROIDS:  -0.397  -0.482  -0.781
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.108
+          AVERAGE XYZ DISPLACEMENT =   0.103
+          MAXIMUM XYZ DISPLACEMENT =   0.140
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.05017  0.99872 -0.00714
+           -0.28371 -0.02111 -0.95868
+           -0.95760 -0.04607  0.28441
+  TRANSLATION VECTOR IN AS      6.99075     7.08474    12.71983
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.990754    7.084744   12.719830
+
+
+  ROTATION MATRIX 
+    -0.050     0.999    -0.007
+    -0.284    -0.021    -0.959
+    -0.958    -0.046     0.284
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  0.213128060    
+  not 10- dc(1),dc(2),dc(3),chk  0.496329606      0.516915977     -0.697463036      0.999999881    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     89.57335   -73.47662   177.24554
+  SPHERICAL POLARS OMEGA PHI CHI    134.22392    46.16397   113.16856
+  DIRECTION COSINES OF ROTATION AXIS      0.49633     0.51692    -0.69746
+
+ Angle between rotation axis and Centroid vector    84.33717
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.99075     7.08474    12.71983
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.990754    7.084744   12.719830
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:00  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 912
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:35:42 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A912_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A912_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.871   8.462  12.358
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.871   8.462  12.358
+     Distance between CENTROIDS      :               17.607
+     Direction cosines of vector between CENTROIDS:  -0.390  -0.481  -0.785
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.113
+          AVERAGE XYZ DISPLACEMENT =   0.107
+          MAXIMUM XYZ DISPLACEMENT =   0.150
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.12490  0.98981 -0.06842
+           -0.24545 -0.09764 -0.96448
+           -0.96133 -0.10367  0.25515
+  TRANSLATION VECTOR IN AS      6.76992     7.04397    12.73282
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.769923    7.043967   12.732818
+
+
+  ROTATION MATRIX 
+    -0.125     0.990    -0.068
+    -0.245    -0.098    -0.964
+    -0.961    -0.104     0.255
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace   3.26043069E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.491757542      0.510096431     -0.705674291       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     85.94234   -75.21768   173.84505
+  SPHERICAL POLARS OMEGA PHI CHI    134.88416    46.04872   118.92729
+  DIRECTION COSINES OF ROTATION AXIS      0.49176     0.51010    -0.70567
+
+ Angle between rotation axis and Centroid vector    83.27149
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.76992     7.04397    12.73282
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.769923    7.043967   12.732818
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:03  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 931
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:38:27 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A931_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A931_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                7.056   8.445  12.309
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    7.056   8.445  12.309
+     Distance between CENTROIDS      :               17.634
+     Direction cosines of vector between CENTROIDS:  -0.400  -0.479  -0.781
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.116
+          AVERAGE XYZ DISPLACEMENT =   0.111
+          MAXIMUM XYZ DISPLACEMENT =   0.152
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.19894  0.97981  0.01982
+           -0.30803 -0.04331 -0.95039
+           -0.93034 -0.19518  0.31043
+  TRANSLATION VECTOR IN AS      7.08539     7.04818    12.76508
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     7.085392    7.048176   12.765081
+
+
+  ROTATION MATRIX 
+    -0.199     0.980     0.020
+    -0.308    -0.043    -0.950
+    -0.930    -0.195     0.310
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace   6.81691468E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.426753581      0.536921382     -0.727734149       1.00000024    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     91.19505   -71.91499   168.15158
+  SPHERICAL POLARS OMEGA PHI CHI    136.69690    51.52181   117.76958
+  DIRECTION COSINES OF ROTATION AXIS      0.42675     0.53692    -0.72773
+
+ Angle between rotation axis and Centroid vector    81.91036
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     7.08539     7.04818    12.76508
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    7.085392    7.048176   12.765081
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+A 933
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:41:11 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_A933_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/A933_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.672   8.460  12.269
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.672   8.460  12.269
+     Distance between CENTROIDS      :               17.459
+     Direction cosines of vector between CENTROIDS:  -0.382  -0.485  -0.787
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.117
+          AVERAGE XYZ DISPLACEMENT =   0.107
+          MAXIMUM XYZ DISPLACEMENT =   0.156
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.23253  0.96730 -0.10127
+           -0.27716 -0.16571 -0.94643
+           -0.93226 -0.19200  0.30663
+  TRANSLATION VECTOR IN AS      6.52288     7.06825    12.71949
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.522879    7.068254   12.719495
+
+
+  ROTATION MATRIX 
+    -0.233     0.967    -0.101
+    -0.277    -0.166    -0.946
+    -0.932    -0.192     0.307
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  -9.16154981E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.450180054      0.495870024     -0.742597282      0.999999881    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     83.89234   -72.14385   168.36246
+  SPHERICAL POLARS OMEGA PHI CHI    137.95325    47.76502   123.07997
+  DIRECTION COSINES OF ROTATION AXIS      0.45018     0.49587    -0.74260
+
+ Angle between rotation axis and Centroid vector    80.09244
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.52288     7.06825    12.71949
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.522879    7.068254   12.719495
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:00  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 901
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:43:52 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a901_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a901_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.715   8.414  12.201
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.715   8.414  12.201
+     Distance between CENTROIDS      :               17.401
+     Direction cosines of vector between CENTROIDS:  -0.386  -0.484  -0.786
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.132
+          AVERAGE XYZ DISPLACEMENT =   0.124
+          MAXIMUM XYZ DISPLACEMENT =   0.168
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.24329  0.96552 -0.09262
+           -0.14609 -0.13087 -0.98058
+           -0.95889 -0.22503  0.17289
+  TRANSLATION VECTOR IN AS      6.57885     6.97230    12.45515
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.578853    6.972302   12.455152
+
+
+  ROTATION MATRIX 
+    -0.243     0.966    -0.093
+    -0.146    -0.131    -0.981
+    -0.959    -0.225     0.173
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.201267079    
+  not 10- dc(1),dc(2),dc(3),chk  0.472496450      0.541742384     -0.695170760       1.00000012    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     84.60441   -80.04404   166.79298
+  SPHERICAL POLARS OMEGA PHI CHI    134.04094    48.90578   126.91538
+  DIRECTION COSINES OF ROTATION AXIS      0.47250     0.54174    -0.69517
+
+ Angle between rotation axis and Centroid vector    84.15258
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.57885     6.97230    12.45515
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.578853    6.972302   12.455152
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 903
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:46:34 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a903_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a903_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                7.023   8.337  12.295
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    7.023   8.337  12.295
+     Distance between CENTROIDS      :               17.558
+     Direction cosines of vector between CENTROIDS:  -0.400  -0.475  -0.784
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.117
+          AVERAGE XYZ DISPLACEMENT =   0.100
+          MAXIMUM XYZ DISPLACEMENT =   0.166
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.33285  0.93701 -0.10597
+           -0.10556 -0.14869 -0.98323
+           -0.93705 -0.31609  0.14840
+  TRANSLATION VECTOR IN AS      6.86698     6.89140    12.51290
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.866978    6.891396   12.512896
+
+
+  ROTATION MATRIX 
+    -0.333     0.937    -0.106
+    -0.106    -0.149    -0.983
+    -0.937    -0.316     0.148
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.333145559    
+  not 10- dc(1),dc(2),dc(3),chk  0.447485685      0.557446182     -0.699292779       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     83.84882   -81.46593   161.35985
+  SPHERICAL POLARS OMEGA PHI CHI    134.37041    51.24455   131.80321
+  DIRECTION COSINES OF ROTATION AXIS      0.44749     0.55745    -0.69929
+
+ Angle between rotation axis and Centroid vector    83.99877
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.86698     6.89140    12.51290
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.866978    6.891396   12.512896
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 904
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:49:16 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a904_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a904_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.770   8.318  12.290
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.770   8.318  12.290
+     Distance between CENTROIDS      :               17.446
+     Direction cosines of vector between CENTROIDS:  -0.388  -0.477  -0.789
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  24.020
+          AVERAGE   B DISPLACEMENT = -24.020
+          RMS     XYZ DISPLACEMENT =   0.134
+          AVERAGE XYZ DISPLACEMENT =   0.127
+          MAXIMUM XYZ DISPLACEMENT =   0.169
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.30291  0.93085 -0.20436
+           -0.19891 -0.27146 -0.94167
+           -0.93203 -0.24459  0.26739
+  TRANSLATION VECTOR IN AS      6.46934     6.93350    12.68356
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.469339    6.933497   12.683560
+
+
+  ROTATION MATRIX 
+    -0.303     0.931    -0.204
+    -0.199    -0.271    -0.942
+    -0.932    -0.245     0.267
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.306984186    
+  not 10- dc(1),dc(2),dc(3),chk  0.460463554      0.480669081     -0.746277750      0.999999940    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     77.75559   -74.49116   165.29584
+  SPHERICAL POLARS OMEGA PHI CHI    138.26909    46.22995   130.80553
+  DIRECTION COSINES OF ROTATION AXIS      0.46046     0.48067    -0.74628
+
+ Angle between rotation axis and Centroid vector    79.58506
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.46934     6.93350    12.68356
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.469339    6.933497   12.683560
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 905
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:51:57 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a905_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a905_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.907   8.428  12.199
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.907   8.428  12.199
+     Distance between CENTROIDS      :               17.481
+     Direction cosines of vector between CENTROIDS:  -0.395  -0.482  -0.782
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  24.020
+          AVERAGE   B DISPLACEMENT = -24.020
+          RMS     XYZ DISPLACEMENT =   0.097
+          AVERAGE XYZ DISPLACEMENT =   0.084
+          MAXIMUM XYZ DISPLACEMENT =   0.134
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.12548  0.98506 -0.11799
+           -0.24072 -0.14560 -0.95961
+           -0.96245 -0.09201  0.25539
+  TRANSLATION VECTOR IN AS      6.73381     7.01762    12.57418
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.733810    7.017621   12.574178
+
+
+  ROTATION MATRIX 
+    -0.125     0.985    -0.118
+    -0.241    -0.146    -0.960
+    -0.962    -0.092     0.255
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  -1.56876743E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.503571212      0.490140885     -0.711461902       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     82.99060   -75.20316   174.53932
+  SPHERICAL POLARS OMEGA PHI CHI    135.35410    44.22571   120.52041
+  DIRECTION COSINES OF ROTATION AXIS      0.50357     0.49014    -0.71146
+
+ Angle between rotation axis and Centroid vector    83.04929
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.73381     7.01762    12.57418
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.733810    7.017621   12.574178
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 906
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:54:38 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a906_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a906_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.683   8.359  12.243
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.683   8.359  12.243
+     Distance between CENTROIDS      :               17.394
+     Direction cosines of vector between CENTROIDS:  -0.384  -0.481  -0.788
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  35.990
+          AVERAGE   B DISPLACEMENT = -35.990
+          RMS     XYZ DISPLACEMENT =   0.126
+          AVERAGE XYZ DISPLACEMENT =   0.122
+          MAXIMUM XYZ DISPLACEMENT =   0.154
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.22470  0.94310 -0.24510
+           -0.19765 -0.29041 -0.93627
+           -0.95417 -0.16193  0.25166
+  TRANSLATION VECTOR IN AS      6.32221     6.98269    12.61269
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.322209    6.982689   12.612694
+
+
+  ROTATION MATRIX 
+    -0.225     0.943    -0.245
+    -0.198    -0.290    -0.936
+    -0.954    -0.162     0.252
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.263447255    
+  not 10- dc(1),dc(2),dc(3),chk  0.499444962      0.457353890     -0.735786855       1.00000024    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     75.33033   -75.42415   170.36823
+  SPHERICAL POLARS OMEGA PHI CHI    137.37386    42.48113   129.17751
+  DIRECTION COSINES OF ROTATION AXIS      0.49944     0.45735    -0.73579
+
+ Angle between rotation axis and Centroid vector    80.30570
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.32221     6.98269    12.61269
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.322209    6.982689   12.612694
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:03  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 907
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 01:57:19 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a907_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a907_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.835   8.376  12.273
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.835   8.376  12.273
+     Distance between CENTROIDS      :               17.486
+     Direction cosines of vector between CENTROIDS:  -0.391  -0.479  -0.786
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  22.920
+          AVERAGE   B DISPLACEMENT = -22.920
+          RMS     XYZ DISPLACEMENT =   0.106
+          AVERAGE XYZ DISPLACEMENT =   0.095
+          MAXIMUM XYZ DISPLACEMENT =   0.141
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.35475  0.91700 -0.18241
+           -0.16755 -0.25429 -0.95251
+           -0.91983 -0.30734  0.24385
+  TRANSLATION VECTOR IN AS      6.56661     6.97557    12.63196
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.566615    6.975567   12.631957
+
+
+  ROTATION MATRIX 
+    -0.355     0.917    -0.182
+    -0.168    -0.254    -0.953
+    -0.920    -0.307     0.244
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.365186393    
+  not 10- dc(1),dc(2),dc(3),chk  0.441412181      0.504531324     -0.742026627       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     79.15915   -75.88627   161.52428
+  SPHERICAL POLARS OMEGA PHI CHI    137.90446    48.81750   133.04672
+  DIRECTION COSINES OF ROTATION AXIS      0.44141     0.50453    -0.74203
+
+ Angle between rotation axis and Centroid vector    80.26978
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.56661     6.97557    12.63196
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.566615    6.975567   12.631957
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 908
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 02:00:01 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a908_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a908_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.991   8.325  12.201
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.991   8.325  12.201
+     Distance between CENTROIDS      :               17.467
+     Direction cosines of vector between CENTROIDS:  -0.400  -0.477  -0.783
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  24.020
+          AVERAGE   B DISPLACEMENT = -24.020
+          RMS     XYZ DISPLACEMENT =   0.127
+          AVERAGE XYZ DISPLACEMENT =   0.122
+          MAXIMUM XYZ DISPLACEMENT =   0.163
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.13948  0.98742 -0.07449
+           -0.18634 -0.10005 -0.97738
+           -0.97253 -0.12244  0.19796
+  TRANSLATION VECTOR IN AS      6.88200     6.88826    12.49199
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.882002    6.888257   12.491994
+
+
+  ROTATION MATRIX 
+    -0.139     0.987    -0.074
+    -0.186    -0.100    -0.977
+    -0.973    -0.122     0.198
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  -4.15729433E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.500732124      0.525980473     -0.687467694      0.999999940    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     85.64183   -78.58266   172.82448
+  SPHERICAL POLARS OMEGA PHI CHI    133.43010    46.40874   121.38512
+  DIRECTION COSINES OF ROTATION AXIS      0.50073     0.52598    -0.68747
+
+ Angle between rotation axis and Centroid vector    85.01193
+
+
+ ***** Note: Since this angle between rotation axis and Centroid vector is  near to 90.0 this may represent a pure rotation *** 
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.88200     6.88826    12.49199
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.882002    6.888257   12.491994
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 909
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 02:02:42 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a909_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a909_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.545   8.401  12.365
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.545   8.401  12.365
+     Distance between CENTROIDS      :               17.459
+     Direction cosines of vector between CENTROIDS:  -0.375  -0.481  -0.792
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  24.020
+          AVERAGE   B DISPLACEMENT = -24.020
+          RMS     XYZ DISPLACEMENT =   0.125
+          AVERAGE XYZ DISPLACEMENT =   0.120
+          MAXIMUM XYZ DISPLACEMENT =   0.160
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.23408  0.91898 -0.31730
+           -0.16905 -0.35987 -0.91756
+           -0.95741 -0.16114  0.23959
+  TRANSLATION VECTOR IN AS      6.07907     7.05269    12.71670
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.079068    7.052686   12.716697
+
+
+  ROTATION MATRIX 
+    -0.234     0.919    -0.317
+    -0.169    -0.360    -0.918
+    -0.957    -0.161     0.240
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.354357719    
+  not 10- dc(1),dc(2),dc(3),chk  0.513997853      0.434962988     -0.739333093       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     70.92423   -76.13774   170.44617
+  SPHERICAL POLARS OMEGA PHI CHI    137.67474    40.23910   132.62369
+  DIRECTION COSINES OF ROTATION AXIS      0.51400     0.43496    -0.73933
+
+ Angle between rotation axis and Centroid vector    79.40689
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.07907     7.05269    12.71670
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.079068    7.052686   12.716697
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 910
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 02:05:24 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a910_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a910_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                7.140   8.374  12.149
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    7.140   8.374  12.149
+     Distance between CENTROIDS      :               17.509
+     Direction cosines of vector between CENTROIDS:  -0.408  -0.478  -0.778
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  13.500
+          AVERAGE   B DISPLACEMENT = -13.500
+          RMS     XYZ DISPLACEMENT =   0.125
+          AVERAGE XYZ DISPLACEMENT =   0.116
+          MAXIMUM XYZ DISPLACEMENT =   0.163
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.21000  0.97312  0.09458
+           -0.21854  0.04757 -0.97467
+           -0.95296 -0.22535  0.20268
+  TRANSLATION VECTOR IN AS      7.27878     6.94149    12.44668
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     7.278779    6.941487   12.446683
+
+
+  ROTATION MATRIX 
+    -0.210     0.973     0.095
+    -0.219     0.048    -0.975
+    -0.953    -0.225     0.203
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace   4.02401239E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.427041978      0.597002208     -0.679134309      0.999999940    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     95.54244   -78.30661   166.69559
+  SPHERICAL POLARS OMEGA PHI CHI    132.77614    54.42350   118.67765
+  DIRECTION COSINES OF ROTATION AXIS      0.42704     0.59700    -0.67913
+
+ Angle between rotation axis and Centroid vector    86.06844
+
+
+ ***** Note: Since this angle between rotation axis and Centroid vector is  near to 90.0 this may represent a pure rotation *** 
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     7.27878     6.94149    12.44668
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    7.278779    6.941487   12.446683
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 911
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 02:08:05 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a911_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a911_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.952   8.351  12.292
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.952   8.351  12.292
+     Distance between CENTROIDS      :               17.534
+     Direction cosines of vector between CENTROIDS:  -0.396  -0.476  -0.785
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  10.470
+          AVERAGE   B DISPLACEMENT = -10.470
+          RMS     XYZ DISPLACEMENT =   0.115
+          AVERAGE XYZ DISPLACEMENT =   0.108
+          MAXIMUM XYZ DISPLACEMENT =   0.148
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.17969  0.98048 -0.07978
+           -0.15623 -0.10852 -0.98174
+           -0.97124 -0.16394  0.17268
+  TRANSLATION VECTOR IN AS      6.83497     6.90784    12.54535
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.834967    6.907841   12.545345
+
+
+  ROTATION MATRIX 
+    -0.180     0.980    -0.080
+    -0.156    -0.109    -0.982
+    -0.971    -0.164     0.173
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.115521520    
+  not 10- dc(1),dc(2),dc(3),chk  0.492649645      0.537019074     -0.684767723      0.999999940    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     85.35393   -80.05616   170.41919
+  SPHERICAL POLARS OMEGA PHI CHI    133.21745    47.46744   123.90118
+  DIRECTION COSINES OF ROTATION AXIS      0.49265     0.53702    -0.68477
+
+ Angle between rotation axis and Centroid vector    85.04748
+
+
+ ***** Note: Since this angle between rotation axis and Centroid vector is  near to 90.0 this may represent a pure rotation *** 
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.83497     6.90784    12.54535
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.834967    6.907841   12.545345
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 912
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 02:10:46 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a912_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a912_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.721   8.437  12.263
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.721   8.437  12.263
+     Distance between CENTROIDS      :               17.463
+     Direction cosines of vector between CENTROIDS:  -0.385  -0.483  -0.786
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.130
+          AVERAGE XYZ DISPLACEMENT =   0.122
+          MAXIMUM XYZ DISPLACEMENT =   0.171
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.18428  0.98004 -0.07460
+           -0.26427 -0.12251 -0.95664
+           -0.94668 -0.15657  0.28157
+  TRANSLATION VECTOR IN AS      6.61109     7.03049    12.67690
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.611090    7.030493   12.676903
+
+
+  ROTATION MATRIX 
+    -0.184     0.980    -0.075
+    -0.264    -0.123    -0.957
+    -0.947    -0.157     0.282
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  -2.52169371E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.465900898      0.507838190     -0.724594176      0.999999940    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     85.54115   -73.64634   170.60901
+  SPHERICAL POLARS OMEGA PHI CHI    136.43521    47.46615   120.83784
+  DIRECTION COSINES OF ROTATION AXIS      0.46590     0.50784    -0.72459
+
+ Angle between rotation axis and Centroid vector    81.65261
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.61109     7.03049    12.67690
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.611090    7.030493   12.676903
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 913
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 02:13:28 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a913_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a913_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.950   8.399  12.222
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.950   8.399  12.222
+     Distance between CENTROIDS      :               17.502
+     Direction cosines of vector between CENTROIDS:  -0.397  -0.480  -0.782
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.121
+          AVERAGE XYZ DISPLACEMENT =   0.116
+          MAXIMUM XYZ DISPLACEMENT =   0.152
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.13419  0.99091 -0.00911
+           -0.26167 -0.04430 -0.96414
+           -0.95578 -0.12700  0.26524
+  TRANSLATION VECTOR IN AS      6.93636     6.98146    12.61215
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.936364    6.981463   12.612147
+
+
+  ROTATION MATRIX 
+    -0.134     0.991    -0.009
+    -0.262    -0.044    -0.964
+    -0.956    -0.127     0.265
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace   8.67480934E-02
+  not 10- dc(1),dc(2),dc(3),chk  0.470485598      0.532045007     -0.703968287      0.999999881    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     89.45894   -74.61908   172.43144
+  SPHERICAL POLARS OMEGA PHI CHI    134.74637    48.51382   117.16969
+  DIRECTION COSINES OF ROTATION AXIS      0.47049     0.53205    -0.70397
+
+ Angle between rotation axis and Centroid vector    83.76566
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.93636     6.98146    12.61215
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.936364    6.981463   12.612147
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 914
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 02:16:10 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a914_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a914_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.807   8.406  12.344
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.807   8.406  12.344
+     Distance between CENTROIDS      :               17.545
+     Direction cosines of vector between CENTROIDS:  -0.388  -0.479  -0.787
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.180
+          AVERAGE XYZ DISPLACEMENT =   0.168
+          MAXIMUM XYZ DISPLACEMENT =   0.233
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.12631  0.99100 -0.04437
+           -0.30693 -0.08158 -0.94823
+           -0.94331 -0.10615  0.31447
+  TRANSLATION VECTOR IN AS      6.74178     7.01260    12.80627
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.741776    7.012601   12.806267
+
+
+  ROTATION MATRIX 
+    -0.126     0.991    -0.044
+    -0.307    -0.082    -0.948
+    -0.943    -0.106     0.314
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  0.106580630    
+  not 10- dc(1),dc(2),dc(3),chk  0.470602512      0.502383888     -0.725357711       1.00000012    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     87.32104   -71.67139   173.57945
+  SPHERICAL POLARS OMEGA PHI CHI    136.49872    46.87086   116.53288
+  DIRECTION COSINES OF ROTATION AXIS      0.47060     0.50238    -0.72536
+
+ Angle between rotation axis and Centroid vector    81.49981
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.74178     7.01260    12.80627
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.741776    7.012601   12.806267
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+a 915
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 02:18:52 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz
+ Data line--- fit   resid CA 1001 to 1004 chain A
+ Data line--- match resid CA 1001 to 1004 chain A
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: Cone_standardZ_sp2.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/Cone_a915_ref2.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: PDBs/a915_moved_ref2.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINF
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+  370 ATOMS IN WORKING MOLECULE(   4 TO BE REFINED)
+    4 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :                0.000   0.000  -1.470
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    0.000   0.000  -1.470
+     CENTROID OF "REFERENCE" MOLECULE:                6.658   8.472  12.223
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    6.658   8.472  12.223
+     Distance between CENTROIDS      :               17.424
+     Direction cosines of vector between CENTROIDS:  -0.382  -0.486  -0.786
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =   0.000
+          AVERAGE   B DISPLACEMENT =   0.000
+          RMS     XYZ DISPLACEMENT =   0.147
+          AVERAGE XYZ DISPLACEMENT =   0.133
+          MAXIMUM XYZ DISPLACEMENT =   0.201
+
+
+
+
+
+
+      ROTATION MATRIX:
+           -0.17216  0.96649 -0.19042
+           -0.23151 -0.22759 -0.94583
+           -0.95748 -0.11875  0.26294
+  TRANSLATION VECTOR IN AS      6.37808     7.08112    12.60902
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge     6.378076    7.081125   12.609022
+
+
+  ROTATION MATRIX 
+    -0.172     0.966    -0.190
+    -0.232    -0.228    -0.946
+    -0.957    -0.119     0.263
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace -0.136816502    
+  not 10- dc(1),dc(2),dc(3),chk  0.502635956      0.466153324     -0.728050947       1.00000000    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     78.61689   -74.75551   172.93022
+  SPHERICAL POLARS OMEGA PHI CHI    136.72336    42.84341   124.63941
+  DIRECTION COSINES OF ROTATION AXIS      0.50264     0.46615    -0.72805
+
+ Angle between rotation axis and Centroid vector    81.17439
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+     6.37808     7.08112    12.60902
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+    6.378076    7.081125   12.609022
+
+
+       370 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...
+thinking...

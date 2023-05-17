@@ -1,0 +1,174 @@
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<html> <!-- CCP4 HTML LOGFILE -->
+<hr>
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+<pre>
+ 
+ ###############################################################
+ ###############################################################
+ ###############################################################
+ ### CCP4 8.0.009: LSQKAB           version 8.0.009 :         ##
+ ###############################################################
+ User: daf69  Run date: 17/ 3/2023 Run time: 00:13:08 
+
+
+ Please reference: Collaborative Computational Project, Number 4. 2011.
+ "Overview of the CCP4 suite and current developments". Acta Cryst. D67, 235-242.
+ as well as any specific reference in the program write-up.
+
+<!--SUMMARY_END--></FONT></B>
+ Data line--- output xyz 
+ Data line--- fit   residue all 915 to 915  chain a
+ Data line--- match residue     1 to 1 
+
+
+
+ LSQKAB RUN 
+          
+
+
+
+      OPEN FILES AS REQUESTED 
+  Opening coordinate file of model to be moved
+
+  Logical name: XYZINM  File name: tmp.pdb
+  PDB file is being opened on unit 1 for INPUT.
+
+
+  $WARNING: NO CRYST CARDS READ$
+
+  $WARNING: NO SCALE CARDS READ$
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  No Space group given on PDB CRYST1 line
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO CRYST CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ 
+ $TEXT:Warning: $$ comment $$ 
+ WARNING:  NO SCALE CARDS READ FROM XYZINM
+ $$
+<!--SUMMARY_END--></FONT></B>
+
+  Logical name: XYZOUT  File name: PDBs/a915_moved.pdb
+  PDB file is being opened on unit 2 for OUTPUT.
+
+  Opening coordinate file of fixed model.
+
+  Logical name: XYZINF  File name: CHLA_bent_center_core.pdb
+  PDB file is being opened on unit 3 for INPUT.
+
+  MATRICES DERIVED FROM CRYST1 CARD IN COORDINATE FILE
+
+
+             RF                                  RO
+
+    0.040  -0.000  -0.000  -0.000       25.000   0.000   0.000   0.000
+   -0.000   0.040  -0.000   0.000        0.000  25.000   0.000   0.000
+    0.000  -0.000   0.040  -0.000        0.000   0.000  25.000   0.000
+   -0.000   0.000  -0.000   1.000        0.000   0.000   0.000   1.000
+
+
+  $WARNING: NO SCALE CARDS READ$
+   - NO MATCH FOR WORKCD ATOM -      915CBA a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915CGA a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915O1A a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915O2A a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915CBB a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915CBC a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915O1D a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915O2D a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915CED a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915C1  a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915C2  a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915C3  a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915C4  a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915C5  a  IN REFRCD FILE
+   - NO MATCH FOR WORKCD ATOM -      915C6  a  IN REFRCD FILE
+
+  **  ZERO OCCUPANCIES IN WORKING   SET **      0.0
+  **  ZERO OCCUPANCIES IN REFERENCE SET **      0.0
+ LSFIT
+   51 ATOMS IN WORKING MOLECULE(  36 TO BE REFINED)
+   36 ATOMS IN REFERENCE MOLECULE
+     CENTROID OF "WORKING" MOLECULE  :              132.177 115.441 102.273
+     CENTROID OF "WORKING" MOLECULE  :(fractional)    5.287   4.618   4.091
+     CENTROID OF "REFERENCE" MOLECULE:                7.955  12.716  13.259
+     CENTROID OF "REFERENCE" MOLECULE:(fractional)    0.318   0.509   0.530
+     Distance between CENTROIDS      :              184.139
+     Direction cosines of vector between CENTROIDS:   0.675   0.558   0.483
+
+
+  NUMBER OF ATOMS EXCLUDED BY RADCHK IS     0
+
+          RMS       B DISPLACEMENT =  25.650
+          AVERAGE   B DISPLACEMENT = -25.650
+          RMS     XYZ DISPLACEMENT =   0.189
+          AVERAGE XYZ DISPLACEMENT =   0.165
+          MAXIMUM XYZ DISPLACEMENT =   0.432
+
+
+
+
+
+
+      ROTATION MATRIX:
+            0.35450  0.66547 -0.65687
+           -0.55061 -0.41922 -0.72186
+           -0.75575  0.61758  0.21780
+  TRANSLATION VECTOR IN AS    -48.54453   207.71632    19.58330
+
+
+
+  TRANSLATION VECTOR IN fractions of cell edge    -1.941781    8.308653    0.783332
+
+
+  ROTATION MATRIX 
+     0.355     0.665    -0.657
+    -0.551    -0.419    -0.722
+    -0.756     0.618     0.218
+
+
+
+
+  PATTERSON SPHERICAL POLARS OMEGA PHI CHI  OMEGA TO AXIS ZO    PHI FROM AXIS  XO  TO AXIS  YO 
+
+ WHEN BETA=0 CAN ONLY DEFINE ALPHA + GAMMA .
+ WHEN BETA = 180 CAN ONLY DEFINE GAMMA - ALPHA.
+  trace  0.153076813    
+  not 10- dc(1),dc(2),dc(3),chk  0.739276588       5.45738190E-02 -0.671186805      0.999999940    
+
+ CROWTHER (Euler) ALPHA BETA GAMMA     47.69879   -77.42044  -140.74525
+  SPHERICAL POLARS OMEGA PHI CHI    132.15883     4.22195   115.05343
+  DIRECTION COSINES OF ROTATION AXIS      0.73928     0.05457    -0.67119
+
+ Angle between rotation axis and Centroid vector    78.18725
+
+
+
+
+  THE TRANSLATION VECTOR IN ANGSTROMS ALONG THE        ORTHONORMAL AXES IS
+   -48.54453   207.71632    19.58330
+
+
+
+
+  THE TRANSLATION VECTOR IN FRACTIONS of the CELL  EDGE IS
+   -1.941781    8.308653    0.783332
+
+
+        51 ATOMS WRITTEN TO "LSQOP" 
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ LSQKAB:   Normal Termination
+Times: User:       0.0s System:    0.0s Elapsed:     0:02  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
