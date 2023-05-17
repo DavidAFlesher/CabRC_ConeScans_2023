@@ -1,0 +1,1 @@
+The output data is too large to be upload to github (104 MB), but it is the output of the Get_Phi_Scans_Cones_python.py script. Its format is similar to that seen in the computational_conescans/output_data/ directory, but with many more (B)Chls in the json file.
