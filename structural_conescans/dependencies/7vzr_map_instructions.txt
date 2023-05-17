@@ -1,0 +1,1 @@
+Download the ESP map for 7VZR from https://www.emdataresource.org/EMD-32229 and rename to filename `7vzr_EMD32229.map`.
