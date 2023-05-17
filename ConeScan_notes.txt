@@ -1,0 +1,105 @@
+These are the required file and directions for performing the cone scans
+
+Upload these files:
+    the pdb with only the chl (extracted from pymol)
+        (remove the first line from the pymol file which will be crystal data. aka the first line should be a HETATM)
+    the pdb with only the Mg from each chl (extracted from pymol)
+                (remove the first line from the pymol file which will be crystal data. aka the first line should be a HETATM)
+    the ESP map
+
+Copy files and directories from the "dependencies" folder.
+	Make directories: (now automatically done when you copy the "dependencies" folder
+		MapsMtzs
+		LogMatrix
+		PDBs
+		PlotDensity
+		PhiScanCone1
+		PhiScanCone2
+		PhiScanCone3
+		PhiScanCone4
+		PlotDensityZ
+		PhiScanCone1Z
+		PhiScanCOne2Z
+		PhiScanCone3Z
+		(mkdir MapsMtzs LogMatrix PDBs PlotDensity PlotDensityZ PhiScanCone1 PhiScanCone2 PhiScanCone3 PhiScanCone4 PhiScanCone1Z PhiScanCone2Z PhiScanCone3Z)
+    
+Note, it is helpful to check the number of file outputs to make sure everything is running properly.
+
+A helpful command to replace text is: (https://askubuntu.com/questions/20414/find-and-replace-text-within-a-file-using-commands)
+    sed -i 's/original/new/g' file.txt
+
+Maybe needed: setup sbgrid. This load ccp4 programs
+
+1. Move_Chl.com
+    Will fit the pdb Chl coords to the reference chl and get the translation/rotation matrix
+    ** change n to be the number of chl in model (try with 1 chl first)
+    ** change the pdb file names
+		1. the model with chl magnesiums extracted. Lines 10, 14.
+		2. the complete model. Line 19
+    Outputs:
+        PDBs/chainresi_moved.pdb
+    
+2. lsqkab_Matrix.com
+    Gets the translation/rotation matrix from Move_Chl.com and applies it to the map file. 
+    Dependencies:
+        awk_transposition
+    ** change n to be the number of chl in model (try with 1 chl first)
+    ** change the pdb file names. Lines 13, 17, and 25.
+    Outputs:
+        LogMatrix/lsqkab_chainresi.log, LogMatrix/lsqkab_chainresi.matrix, LogMatrix/lsqkab_chainresi.matrix_TR
+
+3. Mave_AE_All_Chls.com
+    Moves map to the new coordinates based on the translation/rotation matrix and resamples it onto a new  map file. Then, carve the map, setting all signal outside the Masksize to 0. Note, this requires the map file be .map not a .mrc . Typically  you can simply change the file extension, but make sure things still line up with the moved Chl.pdb file.
+    Dependencies:
+        CHLA_bent_center_core2.mask, CHLA_bent_center_FC.map (reference template for grid size, unit cell, etc), lsq_rt_a2a.o (identity matrix), p1.sym (identity matrix), 
+    ** change the pdb file names. Lines 13, 17, and 25.
+    ** make sure it is set to p1.sym
+    ** change MapsMtz/output names. Line 29, 36 and 37.
+    Outputs:
+        MapsMtzs/XXXX_chainresi_moved_A.map and MapsMtzs/XXXX_chainresi_moved_E.map (contoured)
+    
+4. map2mtz.com
+    Converts the map (contoured around the Chl) to structure factors. Make sure to set to the highest resolution in line 21 to match the highest local resolution plus some wiggle room. Ex. highest map resolution is 2.0, so set d_min = 1.5 
+    ** change the pdb file names. Lines 13, 17
+    ** change the mtz file name to match output from Mave. Line 20, 21, 22
+    Outputs:
+        MapsMtzs/XXXX_chainresi_moved_E.mtz and MapsMtzs/XXXX_chainresi_moved_E.list (plain text hkl amplitude and phase values)
+
+5. Get2_Cone.com
+    Extracts the data at the 72 bond angles from pseudo-bond distances ranging from -5.00 to 5.00 by 0.01. Different cones (which correspond to different substituents) can be commented out to avoid unwanted processing time.
+    First, the script renames the fit atoms (along the Chl cones) by their pdb name and renames them to just be Ala A1001, Ala A1002, etc., generating intermediate files. In this way, it aligns only these atoms to make sure the cone extraction is very well aligned. 
+    Dependencies:
+        Cone_standardZ_sp2.pdb, Cone_standardZ_sp3.pdb, CalculateED_lineB2.com, awk_functions, awk_main_lineB2, Part1.com, Part2.com, Part3.com, Part4.com
+    ** change the pdb file names. Lines 9, 13
+    Outputs:
+        PDBs/chainresi_moved_ref1.pdb, PDBs/chainresi_moved_ref2.pdb, PDBs/chainresi_moved_ref3.pdb, PDBs/chainresi_moved_ref4.pdb,
+		PlotDensity/* (72 files per chl)
+
+6. Get_Phi_Scan_Cones.com
+	Grab data from Get2_Cone.com at the correct bond distances and store in plain text.
+	** change the pdb file names. Lines 8 and 12.
+	** potentially change the bond distances in Lines 21-24.
+	Outputs:
+		PhiScanConeX/* (two per Chl: a .dat and a .dat2 (sorted); We want the .dat2)
+
+###
+
+Now that the data has been generated, I have some python scripts to help organize the data. Run them as follows.
+
+1. generate_json_data_files.py
+	This script is to transfer the cone scan data produced from jimin's scripts
+	into json files, condensing the data such that each cone scan will have its
+	data saved in one json file. The json file will have four parts listed below.
+		1. A dictionary matching the cone scan index with the Chl name
+		2. A dictionary of lists where each nested list is a N=72 float of the signal
+		amplitude (a.u.) for the 72 angles measured. The key of each nested list
+		corresponds to the key in the Chl_id dictionary.
+		3. A dict containing the chl local resolutions. The key matches the chl_id key.
+		This is read from a csv LUT table.
+		4. A list of the angles measured.
+	** change the data inputs to matcht he carbon positions of interest.
+	** change the confidence interval data
+	** change the number of Chl
+	
+###
+Generating a new mask. This was done using a pdb file as the imput using the script pdb2mask.com. The input pdb is altered in line 13. The cell data in line 23 corresponds to the cell geometry, as read from the original cryo-em map file. The radius in line 27 corresponds to the size of the mask. The repeated expansion and contractions that are commented out are for smoothing and can be left commented out.
